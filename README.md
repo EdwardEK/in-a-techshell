@@ -28,7 +28,8 @@ Achieved result using platforms and practices including Google Analytics, Spocke
 flow models for subscribers and email marketing, SEO, and Adobe Creative Cloud.  
 
 ## Promotional Email Material 
-<img width="417" alt="Screenshot 2023-02-21 at 1 49 02 PM" src="https://user-images.githubusercontent.com/24736924/223119950-60e4e79d-9763-4add-bab3-4476776e0290.png">
+<img width="426" alt="Screenshot 2023-03-09 at 5 40 46 AM" src="https://user-images.githubusercontent.com/24736924/224000125-2ae4c5b1-98f2-4c2f-aa97-6b169ebdbc22.png">
+
 
 ## Obstacles 
 There were many challenges, but one in particular was finding the right supplier. After some trial and error with several suppliers, I was able to find reliable, customer focused, and up-to-date suppliers for In a TechShell. 

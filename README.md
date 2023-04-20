@@ -28,7 +28,8 @@ Achieved result using platforms and practices including Google Analytics, Spocke
 flow models for subscribers and email marketing, SEO, and Adobe Creative Cloud.  
 
 ## Promotional Email Material 
-<img width="420" alt="Screenshot 2023-03-09 at 5 48 29 AM" src="https://user-images.githubusercontent.com/24736924/224001830-24bc06a8-5cde-4806-89ba-398d3e205ea4.png">
+![inatechshell_email](https://user-images.githubusercontent.com/24736924/233468062-cef2e3bc-4619-49ea-946c-8488d2986c27.png)
+
 
 
 

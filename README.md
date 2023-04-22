@@ -4,10 +4,10 @@
 Launched independent online tech store through Shopify selling accessories, gadgets, and novelties.
 
 ## Main objective 
-I find the world of e-commerce fascinating as it is ever growing and developing. I wanted to create a store and get my "feet wet" so to speak. My main objective was finding a niche and the process of implementing it. Even though the market is saturated within the tech niche, I still wanted to go that route because technology has always been a passion of mine. 
+I find the world of e-commerce fascinating as it is ever growing and developing. My main objective was finding a niche and the process of implementing it. Even though the market is saturated within the tech niche, I still wanted to go that route because technology has always been a passion of mine. 
 
 ## Workflow / Process 
-Research on trending products, types of business models, costs, various platforms and services, competitive analysis, compare and contrast suppliers and services provided, design, marketing and advertising objectives, deploy, and actively repeating the process. 
+Research on trending products, types of business models, costs, various platforms and services, competitive analysis, compare and contrast suppliers and services provided, branding, design, marketing and advertising objectives, deploy, and actively repeating the process. 
 
 ## Overview 
 Extensive research and planning to build a solid and achievable workflow model starting with 
